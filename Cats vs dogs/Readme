@@ -1,2 +1,9 @@
 This file contains trained model on the famous kaggle dataset namely cats vs dogs dataset. I used Image augmentation using keras to help reduce overfitting.
 Other notebooks are there also for comparisons between accuracies in the cases when we use image augmentation and when we do noe use it.
+
+You can find the data- set here. 
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+Data Description
+The training archive contains 25,000 images of dogs and cats. 
+Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).
