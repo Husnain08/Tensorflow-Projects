@@ -1,0 +1,2 @@
+This file contains trained model on the famous kaggle dataset namely cats vs dogs dataset. I used Image augmentation using keras to help reduce overfitting.
+Other notebooks are there also for comparisons between accuracies in the cases when we use image augmentation and when we do noe use it.
