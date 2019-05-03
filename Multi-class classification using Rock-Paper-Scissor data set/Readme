@@ -8,7 +8,6 @@ Or you can download from
 https://www.dropbox.com/s/sr1iui3zfdk0o53/rps-cv-image.zip. 
  
 These images have all been generated using CGI techniques as an experiment in determining if a CGI-based dataset can be used for classification against real images.
-I also generated a few images that you can use for predictions. You can find them here.
 
 Note that all of this data is posed against a white background.
 
